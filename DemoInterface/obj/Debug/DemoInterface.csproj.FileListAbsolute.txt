@@ -1,0 +1,6 @@
+C:\Users\Nahut Family\Documents\Visual Studio 2017\Projects\DemoInterface\DemoInterface\bin\Debug\DemoInterface.exe.config
+C:\Users\Nahut Family\Documents\Visual Studio 2017\Projects\DemoInterface\DemoInterface\bin\Debug\DemoInterface.exe
+C:\Users\Nahut Family\Documents\Visual Studio 2017\Projects\DemoInterface\DemoInterface\bin\Debug\DemoInterface.pdb
+C:\Users\Nahut Family\Documents\Visual Studio 2017\Projects\DemoInterface\DemoInterface\obj\Debug\DemoInterface.csprojResolveAssemblyReference.cache
+C:\Users\Nahut Family\Documents\Visual Studio 2017\Projects\DemoInterface\DemoInterface\obj\Debug\DemoInterface.exe
+C:\Users\Nahut Family\Documents\Visual Studio 2017\Projects\DemoInterface\DemoInterface\obj\Debug\DemoInterface.pdb
